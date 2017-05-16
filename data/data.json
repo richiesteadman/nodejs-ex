@@ -1,0 +1,324 @@
+[
+    {
+        "name": "Bristol City Council Election 2016",
+        "year": "2016",
+        "turnout": "44.76%",
+        "wards":[
+            {
+                "name": "Ashley",
+                "electorate": "12745",
+                "seats": "3",
+                "turnout": "51.38%",
+                "spoilt": "44",
+                "results":[
+                    {
+                        "candidate": "Mike Davies",
+                        "party": "Labour Party",
+                        "votes": "2574"
+                    },{
+                        "candidate": "Carole Johnson",
+                        "party": "Labour Party",
+                        "votes": "2571"
+                    },{
+                        "candidate": "Jude Brew-English",
+                        "party": "Green Party",
+                        "votes": "2504"
+                    },{
+                        "candidate": "Gus Hoyt",
+                        "party": "Green Party",
+                        "votes": "2351"
+                    },{
+                        "candidate": "John William Halpin",
+                        "party": "Labour Party",
+                        "votes": "2102"
+                    },{
+                        "candidate": "Simon Ingham Stafford-Townsend",
+                        "party": "Green Party",
+                        "votes": "1959"
+                    },{
+                        "candidate": "Jon Charles Rogers",
+                        "party": "Liberal Democrat",
+                        "votes": "1239"
+                    },{
+                        "candidate": "Maya Sturtridge",
+                        "party": "Liberal Democrat",
+                        "votes": "675"
+                    },{
+                        "candidate": "Adam Mark Sturtridge",
+                        "party": "Liberal Democrat",
+                        "votes": "569"
+                    },{
+                        "candidate": "Chris Farrell",
+                        "party": "Trade Unionist and Socialist Coalition",
+                        "votes": "411"
+                    },{
+                        "candidate": "Marcus Bruton",
+                        "party": "Conservative Party Candidate",
+                        "votes": "227"
+                    },{
+                        "candidate": "George William Pendrill Maggs",
+                        "party": "Conservative Party Candidate",
+                        "votes": "188"
+                    },{
+                        "candidate": "Fi Riches",
+                        "party": "Conservative Party Candidate",
+                        "votes": "180"
+                    }
+                ]
+            },{
+                "name": "Avonmouth and Lawrence Weston",
+                "electorate": "15305",
+                "seats": "3",
+                "turnout": "38.94%",
+                "spoilt": "43",
+                "results":[
+                    {
+                       "candidate": "Donald Philip Alexander",
+                       "party": "Labour Party",
+                       "votes": 2110
+                     },{
+                       "candidate": "Matt Melias",
+                       "party": "Conservative Party Candidate",
+                       "votes": 1901
+                     },{
+                       "candidate": "Jo Sergeant",
+                       "party": "Labour Party",
+                       "votes": 1475
+                     },{
+                       "candidate": "Jerry Williams",
+                       "party": "Labour Party",
+                       "votes": 1214
+                     },{
+                       "candidate": "Darien Luke Jay",
+                       "party": "Conservative Party Candidate",
+                       "votes": 1199
+                     },{
+                       "candidate": "Henry Michallat",
+                       "party": "Conservative Party Candidate",
+                       "votes": 1105
+                     },{
+                       "candidate": "Michael Frost",
+                       "party": "UK Independence Party (UKIP)",
+                       "votes": 872
+                     },{
+                       "candidate": "Timothy James Leaman",
+                       "party": "Liberal Democrat Focus Team",
+                       "votes": 827
+                     },{
+                       "candidate": "Claire Francesca Frost",
+                       "party": "UK Independence Party (UKIP)",
+                       "votes": 812
+                     },{
+                       "candidate": "Darren Moore",
+                       "party": "Liberal Democrat Focus Team",
+                       "votes": 573
+                     },{
+                       "candidate": "Wendie Michelle Smith",
+                       "party": "Liberal Democrat Focus Team",
+                       "votes": 553
+                     },{
+                       "candidate": "John Stephen Geater",
+                       "party": "Independent",
+                       "votes": 550
+                     },{
+                       "candidate": "Laurence Duncan",
+                       "party": "Independent",
+                       "votes": 479
+                     },{
+                       "candidate": "Geoff Collard",
+                       "party": "Green Party",
+                       "votes": 351
+                     },{
+                       "candidate": "Don Brown",
+                       "party": "Green Party",
+                       "votes": 347
+                     },{
+                       "candidate": "Mo McManus",
+                       "party": "Green Party",
+                       "votes": 317
+                     },{
+                       "candidate": "Stephen Kenneth James Norman",
+                       "party": "Independent",
+                       "votes": 193
+                     }
+                ]
+            }
+        ]
+    },{
+        "name": "UK General Election 2015",
+        "year": "2015",
+        "turnout": "66.88%",
+        "wards":[
+            {
+                "name": "Bristol East",
+                "electorate": "71191",
+                "seats": "1",
+                "turnout": "65%",
+                "spoilt": "162",
+                "results":[
+                    {
+                        "candidate": "CLARKE Theo",
+                        "party": "The Conservative Party Candidate",
+                        "votes": 14168
+                    },{
+                        "candidate": "FRANCIS Lorraine",
+                        "party": "Green Party",
+                        "votes": 3827
+                    },{
+                        "candidate": "MALIK Abdul Raoof",
+                        "party": "Liberal Democrat",
+                        "votes": 2689
+                    },{
+                        "candidate": "MCCARTHY Kerry Gillian",
+                        "party": "Labour Party",
+                        "votes": 18148
+                    },{
+                        "candidate": "MCMURRAY James Robert",
+                        "party": "UK Independence Party (UKIP)",
+                        "votes": 7152
+                    }
+                ]
+            },{
+                "name": "Bristol North West",
+                "electorate": "74742",
+                "seats": "1",
+                "turnout": "71.7%",
+                "spoilt": "121",
+                "results":[
+                    {
+                        "candidate": "CAMPION-SMITH Clare",
+                        "party": "Liberal Democrat",
+                        "votes": 3214
+                    },{
+                        "candidate": "FROST Michael",
+                        "party": "UK Independence Party (UKIP)",
+                        "votes": 4889
+                    },{
+                        "candidate": "LEMON Anne",
+                        "party": "Trade Unionist and Socialist Coalition",
+                        "votes": 160
+                    },{
+                        "candidate": "LESLIE Charlotte",
+                        "party": "The Conservative Party Candidate",
+                        "votes": 22767
+                    },{
+                        "candidate": "QUINNELL  Justin Michael",
+                        "party": "Green Party",
+                        "votes": 2952
+                    }
+                ]
+            },{
+                "name": "Bristol South",
+                "electorate": "81464",
+                "seats": "1",
+                "turnout": "62.40%",
+                "spoilt": 121,
+                "results":[
+                    {
+                        "candidate": "BALDWIN Tom",
+                        "party": "Trade Unionist and Socialist Coalition",
+                        "votes": 302
+                    },{
+                        "candidate": "DYER Tony",
+                        "party": "Green Party",
+                        "votes": 5861
+                    },{
+                        "candidate": "GRANT Isobel",
+                        "party": "Conservative Party Candidate",
+                        "votes": 12377
+                    },{
+                        "candidate": "SMYTH Karin",
+                        "party": "Labour Party",
+                        "votes": 19505
+                    },{
+                        "candidate": "WOOD Steve",
+                        "party": "UK Independence Party (UKIP)",
+                        "votes": 8381
+                    },{
+                        "candidate": "WRIGHT Mark Michael",
+                        "party": "Liberal Democrat",
+                        "votes": 4416
+                    }
+                ]
+            },{
+                "name": "Bristol West",
+                "electorate": "91219",
+                "seats": "1",
+                "turnout": "71%",
+                "spoilt": 198,
+                "results":[
+                    {
+                        "candidate": "DEBBONAIRE Thangam",
+                        "party": "Labour Party",
+                        "votes": 22900
+                    },{
+                        "candidate": "HALL Darren Edward",
+                        "party": "Green Party",
+                        "votes": 17227
+                    },{
+                        "candidate": "HISCOTT Claire Michelle",
+                        "party": "The Conservative Party Candidate",
+                        "votes": 9752
+                    },{
+                        "candidate": "PARRY Dawn",
+                        "party": "Independents for Bristol",
+                        "votes": 204
+                    },{
+                        "candidate": "TURNER Paul",
+                        "party": "UK Independence Party (UKIP)",
+                        "votes": 1940
+                    },{
+                        "candidate": "WESTON Stewart Edward",
+                        "party": "Left Unity",
+                        "votes": 92
+                    },{
+                        "candidate": "WILLIAMS Stephen",
+                        "party": "Liberal Democrats",
+                        "votes": 12103
+                    }
+                ]
+            }
+        ]
+    },{
+        "name": "UK General Election 2010",
+        "year": "2010",
+        "turnout": "??%",
+        "wards":[
+            {
+                "name": "Bristol East",
+                "electorate": "69448",
+                "seats": "1",
+                "turnout": "64.82%",
+                "spoilt": "90",
+                "results":[
+                    {
+                        "candidate": "K. McCarthy",
+                        "party": "Labour Party",
+                        "votes": "16471"
+                    },{
+                        "candidate": "A. Shafi",
+                        "party": "Conservative Party",
+                        "votes": "12749"
+                    }
+                ]
+            },{
+                "name": "Bristol North West",
+                "electorate": "73469",
+                "seats": "1",
+                "turnout": "68.51%",
+                "spoilt": "118",
+                "results":[
+                    {
+                        "candidate": "C.A. Leslie",
+                        "party": "Conservative Party",
+                        "votes": "19115"
+                    },{
+                        "candidate": "P. Harrod",
+                        "party": "Liberal Democrat",
+                        "votes": "15841"
+                    }
+                ]
+            }
+        ]
+    }
+]
