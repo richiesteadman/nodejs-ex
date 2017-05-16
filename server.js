@@ -91,6 +91,12 @@ app.get('/pagecount', function (req, res) {
   }
 });
 
+// serves all the static files
+app.get(/^(.+)$/, function(req, res){ 
+    console.log('static file request : ' + req.params);
+    res.sendfile( __dirname + req.params[0]); 
+});
+
 // error handling
 app.use(function(err, req, res, next){
   console.error(err.stack);
