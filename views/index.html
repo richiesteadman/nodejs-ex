@@ -21,7 +21,7 @@
 
   <!-- HEADER -->
 
-  <header>
+  <header class="row">
       <h1>Election results search</h1>
     <div class="clearfix"></div>
   </header>
@@ -29,7 +29,7 @@
 
   <!-- SELECT ELECTION -->
     
-  <section id="select" ng-controller="ElectionsController">
+  <section class="row" id="select" ng-controller="ElectionsController">
     <form name="electionForm">
         <label for="selectElection"> Select election year: </label>
         <select ng-options="election.year for election in elections" ng-model="selectedElection"></select>
@@ -89,7 +89,7 @@
   </section>
   
   <!-- SECTION MONGO -->
-  <section>
+  <section class="row">
     <h2>Request information</h2>
     <p>Page view count:
     <% if (pageCountMessage) { %>
